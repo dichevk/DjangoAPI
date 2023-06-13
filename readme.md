@@ -1,0 +1,1 @@
+This is a simple django api project that represents a CRM system. 
