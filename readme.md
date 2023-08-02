@@ -1,1 +1,1 @@
-This is a simple django api project that represents a CRM system. 
+This is a simple python django api project that represents a CRM system. 
